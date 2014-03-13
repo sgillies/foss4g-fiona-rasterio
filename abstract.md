@@ -1,5 +1,5 @@
 # Fiona and Rasterio: Data Access for Python Programmers and Future Python
-# Programmers
+Programmers
 
 ## Brief Description
 
