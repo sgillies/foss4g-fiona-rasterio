@@ -1,5 +1,4 @@
-# Fiona and Rasterio: Data Access for Python Programmers and Future Python
-Programmers
+# Fiona and Rasterio: Data Access for Python Programmers and Future Python Programmers
 
 ## Brief Description
 
